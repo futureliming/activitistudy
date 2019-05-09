@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="073b0fc7-6d0d-4cb2-9d00-59319114fe66" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-794079847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="163" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Enforced Plain Text" value="6" />
+          <entry key="JAVA" value="163" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="XML" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ACT_EVT_LOG" value="1" />
+          <entry key="Bpmn" value="3" />
+          <entry key="bpmn" value="19" />
+          <entry key="class" value="3" />
+          <entry key="java" value="15" />
+          <entry key="pom" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="uml" value="1" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="BPMN_EDITOR" value="22" />
+          <entry key="CLASS" value="3" />
+          <entry key="Database Element" value="1" />
+          <entry key="JAVA" value="15" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activitiTest.bpmn">
+          <provider selected="true" editor-type-id="bpmn-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myWorkDeploy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myWorkStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myworkQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/workTest.bpmn">
+          <provider selected="true" editor-type-id="bpmn-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MyWorkProcessApproval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MyWorkTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="BpmnFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WorkTest.bpmn" />
+        <option value="$PROJECT_DIR$/activitiTest.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/resources/activiti.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/MyWorkTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myWorkDeploy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myWorkStart.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/activitiTest.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/java/MyWorkQueryProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/activitiTest.Bpmn.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/java/myworkQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyWorkProcessApproval.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/workTest.bpmn" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\Repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-56" />
+    <option name="y" value="37" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activitidemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557363969697" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FCat" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\activitidemo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.myWorkDeploy">
+    <configuration name="myWorkDeploy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activitidemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myWorkDeploy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myWorkDeploy.deployProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activitidemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myWorkDeploy" />
+      <option name="METHOD_NAME" value="deployProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myWorkStart.startProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activitidemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myWorkStart" />
+      <option name="METHOD_NAME" value="startProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myworkQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activitidemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myworkQuery" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myworkQuery.queryTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activitidemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myworkQuery" />
+      <option name="METHOD_NAME" value="queryTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.myworkQuery.queryTask" />
+      <item itemvalue="JUnit.myWorkDeploy.deployProcess" />
+      <item itemvalue="JUnit.myWorkStart.startProcess" />
+      <item itemvalue="JUnit.myworkQuery" />
+      <item itemvalue="JUnit.myWorkDeploy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.myWorkDeploy" />
+        <item itemvalue="JUnit.myWorkDeploy.deployProcess" />
+        <item itemvalue="JUnit.myworkQuery" />
+        <item itemvalue="JUnit.myworkQuery.queryTask" />
+        <item itemvalue="JUnit.myWorkStart.startProcess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="073b0fc7-6d0d-4cb2-9d00-59319114fe66" name="Default Changelist" comment="" />
+      <created>1557119618305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557119618305</updated>
+      <workItem from="1557119622824" duration="261000" />
+      <workItem from="1557119937054" duration="4085000" />
+      <workItem from="1557126324247" duration="422000" />
+      <workItem from="1557126845357" duration="282000" />
+      <workItem from="1557127183711" duration="573000" />
+      <workItem from="1557127824082" duration="8727000" />
+      <workItem from="1557149666787" duration="1624000" />
+      <workItem from="1557193203846" duration="1295000" />
+      <workItem from="1557198227032" duration="1783000" />
+      <workItem from="1557217049456" duration="3910000" />
+      <workItem from="1557280038586" duration="235000" />
+      <workItem from="1557280285498" duration="2005000" />
+      <workItem from="1557304664513" duration="480000" />
+      <workItem from="1557312423702" duration="295000" />
+      <workItem from="1557363664345" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 21h 53m 16s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 21h 59m 09s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 21h 59m 21s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 21h 59m 57s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 22h 01m 02s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkStart_startProcess - 2019.05.06 at 22h 01m 21s.xml">
+      <configuration name="myWorkStart.startProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myworkQuery_queryTask - 2019.05.06 at 22h 01m 34s.xml">
+      <configuration name="myworkQuery.queryTask" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myworkQuery - 2019.05.06 at 22h 01m 49s.xml">
+      <configuration name="myworkQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy_deployProcess - 2019.05.06 at 22h 04m 57s.xml">
+      <configuration name="myWorkDeploy.deployProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="myWorkDeploy - 2019.05.06 at 22h 07m 19s.xml">
+      <configuration name="myWorkDeploy" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26281000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27760968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="BPMN Editor" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.33114755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60163933" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="0.33114755" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4977307" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="BPMNPalette" order="9" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WorkTest.xml" />
+    <entry file="uml://BPMN_2_0/flowPath=E:/Project/activitidemo/src/main/resources/WorkTest.xml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>BPMN_2_0</ID>
+          <OriginalElement>flowPath=E:/Project/activitidemo/src/main/resources/WorkTest.xml</OriginalElement>
+          <nodes>
+            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @5615</node>
+            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @5618</node>
+            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @5622</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="55.0" y="99.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Details</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/WorkTest.xml" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/activiti/activiti-spring/5.18.0/activiti-spring-5.18.0.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activitiTest.xml" />
+    <entry file="uml://BPMN_2_0/flowPath=E:/Project/activitidemo/src/main/resources/activitiTest.xml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>BPMN_2_0</ID>
+          <OriginalElement>flowPath=E:/Project/activitidemo/src/main/resources/activitiTest.xml</OriginalElement>
+          <nodes>
+            <node x="10.0" y="0.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @37452</node>
+            <node x="15.0" y="84.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455</node>
+            <node x="12.5" y="252.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @37463</node>
+            <node x="15.0" y="168.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @37463">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @37452" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-203.0" y="203.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activitiTest.png.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>BPMN_2_0</ID>
+          <OriginalElement>flowPath=E:/Project/activitidemo/src/main/resources/activitiTest.xml</OriginalElement>
+          <nodes>
+            <node x="10.0" y="0.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @37452</node>
+            <node x="15.0" y="84.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455</node>
+            <node x="12.5" y="252.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @37463</node>
+            <node x="15.0" y="168.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @37463">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @37452" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37455" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @37459">
+              <point x="0.0" y="15.0" />
+              <point x="0.0" y="-15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-203.0" y="203.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activiti.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activitiTest1.Bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activitiTest.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/ProcessEngines.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="176" column="32" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/RepositoryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyWorkQueryProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/TaskService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3a860f3d-42a5-43d5-a461-270a9bfb8d77/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e9d623b7-2fe7-4300-b626-8bb33436df2f/schema/activiti/table/ACT_EVT_LOG" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activitiTest.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myWorkDeploy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myworkQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/workTest.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyWorkProcessApproval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyWorkTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myWorkStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|activitidemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
